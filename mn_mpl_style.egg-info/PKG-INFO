@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: mn-mpl-style
+Version: 0.1
+Summary: A collection of custom Matplotlib styles.
+Home-page: https://github.com/matt-nagle/mn_mpl_style
+Author: Matt Nagle
+Author-email: mattnagle96@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# mn_mpl_style
+
+This repository contains custom matplotlib styles to help create consistent, beautiful scientific plots with custom layout, style and colours
+
+## Base matplotlib vs custom style
+
+To be added
+
+## Installation
+
+You can install the style package using pip:
+
+```bash
+pip install mn_mpl_style

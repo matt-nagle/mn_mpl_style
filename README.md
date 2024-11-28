@@ -1,8 +1,8 @@
 # mn_mpl_style
 
-This repository contains custom matplotlib styles to help create consistent, beautiful scientific plots with custom layout, style and colours
+This repository contains custom matplotlib styles to help create consistent, beautiful scientific plots with custom layout, style and colours.
 
-## Base matplotlib vs custom style
+## Base matplotlib vs custom mn_thesis style
 
 ![style comparison](https://raw.githubusercontent.com/matt-nagle/mn_mpl_style/refs/heads/main/default_vs_mn_thesis_style.svg)
 

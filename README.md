@@ -2,7 +2,7 @@
 
 This repository contains custom matplotlib styles to help create consistent, beautiful scientific plots with custom layout, style and colours.
 
-Current version: v1.0.1
+Current version: v0.1
 
 ## Base matplotlib vs custom mn_thesis style
 

@@ -4,7 +4,7 @@ This repository contains custom matplotlib styles to help create consistent, bea
 
 ## Base matplotlib vs custom style
 
-![style comparison](https://github.com/matt-nagle/mn_mpl_style/default_vs_mn_thesis_style.svg)
+![style comparison](https://raw.githubusercontent.com/matt-nagle/mn_mpl_style/refs/heads/main/default_vs_mn_thesis_style.svg)
 
 ## Installation
 
